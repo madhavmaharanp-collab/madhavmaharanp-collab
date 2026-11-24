@@ -28,19 +28,19 @@
 <!--                      ABOUT ME                         -->
 <!-- ===================================================== -->
 
-## 👨‍💻 About Me
+##  About Me
 
 Hi! I'm **Madhav Mahara**, an IT student and aspiring Cloud Engineer from **Nepal 🇳🇵**.
 
 I'm passionate about building reliable applications, understanding backend systems, exploring cloud infrastructure, and learning how technology works behind the scenes.
 
-- 🎓 Pursuing **BSc IT (Cloud Engineering)** at LBEF College.
-- ☁️ Exploring cloud computing, AWS and Google Cloud.
-- 💻 Developing backend applications and web solutions.
-- 🔧 Learning DevOps, Docker, Linux and deployment workflows.
-- 🔐 Interested in Cloud Security and Cybersecurity.
-- 🚀 Building practical projects to strengthen my engineering skills.
-- 📚 Always learning, experimenting and improving.
+-  Pursuing **BSc IT (Cloud Engineering)** at LBEF College.
+-  Exploring cloud computing, AWS and Google Cloud.
+-  Developing backend applications and web solutions.
+-  Learning DevOps, Docker, Linux and deployment workflows.
+-  Interested in Cloud Security and Cybersecurity.
+-  Building practical projects to strengthen my engineering skills.
+-  Always learning, experimenting and improving.
 
 > "Don't just write code. Understand the system, solve the problem, and build something meaningful."
 
@@ -50,9 +50,9 @@ I'm passionate about building reliable applications, understanding backend syste
 <!--                    TECH STACK                         -->
 <!-- ===================================================== -->
 
-## ⚙️ Languages & Technologies
+##  Languages & Technologies
 
-### 💻 Programming & Development
+###  Programming & Development
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=html,css,js,php,python,java,react,mysql&theme=dark" />
@@ -76,7 +76,7 @@ I'm passionate about building reliable applications, understanding backend syste
 <!--                   CURRENT FOCUS                        -->
 <!-- ===================================================== -->
 
-## 🎯 Currently Exploring
+##  Currently Exploring
 
 | Area | Focus |
 |---|---|
@@ -92,7 +92,7 @@ I'm passionate about building reliable applications, understanding backend syste
 <!--                    PROJECTS                            -->
 <!-- ===================================================== -->
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <div align="center">
 
@@ -139,7 +139,7 @@ Explore more projects on my [GitHub repositories](https://github.com/madhavmahar
 <!--                  CONTRIBUTION GRAPH                    -->
 <!-- ===================================================== -->
 
-## 📈 Contribution Activity
+##  Contribution Activity
 
 <div align="center">
 

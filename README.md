@@ -10,7 +10,7 @@
 <br/>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Hello%2C+World!+I%27m+Madhav+Mahara.;Aspiring+Cloud+Engineer!;Backend+Developer+in+Progress.;Learning.+Building.+Improving.;Turning+Ideas+Into+Reality!!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Hello%2C+World!+I%27m+Madhav+Mahara.;Aspiring+Cloud+Security+Engineer!;Backend+Developer+And+DevOps.;Learning.+Building.+Improving.;Turning+Ideas+Into+Reality!!" alt="Typing SVG" />
 </a>
 
 <br/><br/>

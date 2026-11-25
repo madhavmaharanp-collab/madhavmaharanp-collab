@@ -58,13 +58,13 @@ I'm passionate about building reliable applications, understanding backend syste
 <img src="https://skillicons.dev/icons?i=html,css,js,php,python,java,react,mysql&theme=dark" />
 </p>
 
-### ☁️ Cloud, DevOps & Infrastructure
+### Cloud, DevOps & Infrastructure
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=aws,gcp,docker,linux,bash,git,github,cloudflare&theme=dark" />
 </p>
 
-### 🛠️ Tools & Environment
+### Tools & Environment
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=vscode,ubuntu,windows,postman,vite,nodejs&theme=dark" />
@@ -119,7 +119,7 @@ Explore more projects on my [GitHub repositories](https://github.com/madhavmahar
 <!--                   GITHUB STATISTICS                    -->
 <!-- ===================================================== -->
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <div align="center">
 
@@ -153,7 +153,7 @@ Explore more projects on my [GitHub repositories](https://github.com/madhavmahar
 <!--                     EDUCATION                          -->
 <!-- ===================================================== -->
 
-## 🎓 Education
+##  Education
 
 **Bachelor of Science in Information Technology (BSc IT)**
 
@@ -194,7 +194,7 @@ I'm always interested in connecting with developers, learning from experienced e
 
 ### ⭐ Thanks for visiting my GitHub profile!
 
-**Keep Learning. Keep Building. Keep Growing. 🚀**
+**Keep Learning. Keep Building. Keep Growing. **
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B6,50:14213D,100:0D1117&height=110&section=footer" width="100%" />
 

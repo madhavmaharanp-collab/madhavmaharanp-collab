@@ -80,11 +80,11 @@ I'm passionate about building reliable applications, understanding backend syste
 
 | Area | Focus |
 |---|---|
-| ☁️ Cloud Engineering | AWS, GCP and cloud infrastructure |
-| ⚙️ Backend Development | PHP, MySQL, Java and API development |
-| 🐳 DevOps | Docker, Linux and deployment workflows |
-| 🔐 Cloud Security | Networking, security fundamentals and infrastructure protection |
-| ⚛️ Frontend | React and modern JavaScript |
+|  Cloud Engineering | AWS, GCP and cloud infrastructure |
+|  Backend Development | PHP, MySQL, Java and API development |
+|  DevOps | Docker, Linux and deployment workflows |
+|  Cloud Security | Networking, security fundamentals and infrastructure protection |
+|  Frontend | React and modern JavaScript |
 
 ---
 
